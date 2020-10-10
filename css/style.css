@@ -15,7 +15,7 @@ body {
 	width: 100vw;
 	overflow: auto;
 	max-width: 100vw;
-	background-image: url(/images/World-Map-PNG-Photos.png);
+	background-image: url(../images/World-Map-PNG-Photos.png);
 	background-position: right;
 	background-size: contain;
 }
